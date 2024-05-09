@@ -2,7 +2,6 @@
 
 This web application, developed using Streamlit, enables users to generate mashups of YouTube videos effortlessly. Users can input the artist's name, determine the number of clips desired, set the duration for each clip, and specify the output filename. The application seamlessly retrieves videos from YouTube based on the artist's name, proceeds to download and process the clips accordingly, and finally merges them into a unified mashup audio file.
 
-Project is now live at https://song-mashup-arnavsharma.streamlit.app
 
 ## How to Run
 
