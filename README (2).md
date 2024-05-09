@@ -8,7 +8,7 @@ This web application, developed using Streamlit, enables users to generate mashu
 1. Clone the repository:
 
 ```
-git clone https://github.com/arnavroh45/Song-Mashup-Creator.git
+git clone https://github.com/aparna21/Song-Mashup-Creator.git
 ```
 
 2. Navigate to the project directory:
